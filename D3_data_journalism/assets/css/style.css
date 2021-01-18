@@ -1,5 +1,5 @@
 .iframeContainer {
-  padding: 20px;
+  padding: 30px;
   border: 1px solid #e3e3e3;
 }
 
@@ -12,6 +12,7 @@ html {
 body {
   /* Padding bottom by footer height */
   padding-bottom: 80px;
+  padding-left: 120px;
 }
 
 #footer {
